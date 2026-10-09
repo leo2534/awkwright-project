@@ -1,0 +1,9 @@
+#pragma once
+#include <string>
+#include <iostream>
+#include <fstream>
+#include <cmath>
+#include <vector>
+#include <list>
+#include <algorithm>
+#include <cctype>
